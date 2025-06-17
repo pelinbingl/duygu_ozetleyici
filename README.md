@@ -9,28 +9,6 @@ Bu proje, Türkçe mağaza yorumlarını analiz ederek duygu (olumlu / olumsuz /
 - Eğitimli modelin `.joblib` ile kaydedilmesi ve yeniden kullanımı
 - Flask ile kullanıcı arayüzü
 
-## 📁 Klasör Yapısı
-
-DUYGU_OZETLEME/
-├── data/
-│   └── magaza_yorumlari_duygu_analizi.csv
-│
-├── notebooks/
-│   ├── app.py
-│   ├── model_egitimi.py
-│   └── veri_inceleme.py
-│
-├── templates/
-│   └── index.html
-│
-├── venv/
-│
-├── naivebayes_model.joblib
-├── tfidf_vectorizer.joblib
-└── README.md
-
-
----
 
 ## 🔬 Kullanılan Teknolojiler
 
