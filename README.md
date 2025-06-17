@@ -1,0 +1,1 @@
+# duygu_ozetleyici
