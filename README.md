@@ -12,17 +12,18 @@ Bu proje, Türkçe mağaza yorumlarını analiz ederek duygu (olumlu / olumsuz /
 ## 📁 Klasör Yapısı
 
 DUYGU_OZETLEME/
-│
 ├── data/
-│ └── magaza_yorumlari_duygu_analizi.csv
+│   └── magaza_yorumlari_duygu_analizi.csv
 │
 ├── notebooks/
-│ ├── model_egitimi.py
-│ ├── veri_inceleme.py
-│ └── app.py
+│   ├── app.py
+│   ├── model_egitimi.py
+│   └── veri_inceleme.py
 │
 ├── templates/
-│ └── index.html
+│   └── index.html
+│
+├── venv/
 │
 ├── naivebayes_model.joblib
 ├── tfidf_vectorizer.joblib
